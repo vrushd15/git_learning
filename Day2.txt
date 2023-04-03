@@ -1,1 +1,2 @@
-This is another file for test purposes
+This is another file for test purposes.
+Adding another line in this file.
